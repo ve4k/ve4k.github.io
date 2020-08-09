@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(32, 32, 32);
+    color: white;
+}
+
+.aqua-text-gradient{
+    background: linear-gradient(40deg,#2096ff,#05ffa3);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
